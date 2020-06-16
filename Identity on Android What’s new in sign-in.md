@@ -8,7 +8,7 @@
 - Smart Lock for Passwords
 - Android Autofill
 
-We'd like to solve 2 key chanllenges:
+We'd like to solve 2 key challenges:
 
 - Developer complexity
 - User Complexity
@@ -43,4 +43,10 @@ Block Store provides:
 - Eliminates friction from sign-in flows
 
 [Early Access](https://goo.gle/blockstore-eap)
+
+## Wrap Up
+
+- One Tap and Block Store will be part of the unified Google Identity Service (GIS) Library
+- Block Store tokens will be retrievable using One Tap
+- Google Sign in and Smart Lock for Passwords will be replaced by GIS
 
